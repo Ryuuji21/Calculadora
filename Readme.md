@@ -1,0 +1,1 @@
+Neste projeto, foi buscado fazer uma calculadora do 0, usando apenas JS, CSS e HTML, possui calculos de soma, subtração, multiplicação e divisão, contendo também botões de limpar os números e de exibição do resultado.
